@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to JavaScript",
+        "price": "free"
+    },
+    {
+        "id": 2,
+        "name": "React Fundamentals",
+        "price": "paid"
+    },
+    {
+        "id": 3,
+        "name": "Python for Beginners",
+        "price": "free"
+    },
+    {
+        "id": 4,
+        "name": "Data Structures and Algorithms",
+        "price": "paid"
+    },
+    {
+        "id": 5,
+        "name": "HTML and CSS Basics",
+        "price": "free"
+    },
+    {
+        "id": 6,
+        "name": "Node.js Essentials",
+        "price": "paid"
+    },
+    {
+        "id": 7,
+        "name": "Machine Learning with Python",
+        "price": "paid"
+    },
+    {
+        "id": 8,
+        "name": "Java Programming Masterclass",
+        "price": "paid"
+    },
+    {
+        "id": 9,
+        "name": "Angular Framework Course",
+        "price": "paid"
+    },
+    {
+        "id": 10,
+        "name": "Introduction to Cybersecurity",
+        "price": "free"
+    }
+]
